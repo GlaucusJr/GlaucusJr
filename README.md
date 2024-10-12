@@ -1,7 +1,7 @@
 # Saudação Dev(a)! :vulcan_salute:
 
 ![](https://komarev.com/ghpvc/?username=glaucusjr&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=glaucusjr&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/glaucusjr?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/glaucusjr?label=Follow&style=social)
 
 - :open_book: Desenvolvedor FullStack
 - :computer: Entusiasta Tech
