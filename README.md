@@ -25,6 +25,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
 ![Postgres](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)
+![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma)
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
 <!--
 **GlaucusJr/GlaucusJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
