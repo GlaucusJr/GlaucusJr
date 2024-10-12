@@ -23,7 +23,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
 ![React](https://img.shields.io/badge/React-282C34?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)
-![Postgres](https://img.shields.io/badge/Postgres-282C34?logo=postgres)
+![Postgres](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)
 <!--
 **GlaucusJr/GlaucusJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
