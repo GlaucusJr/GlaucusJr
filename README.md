@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker)
 ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma)
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
-![Jest](https://img.shields.io/badge/Git-282C34?logo=jest)
+![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest)
 
 <!--
 **GlaucusJr/GlaucusJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
