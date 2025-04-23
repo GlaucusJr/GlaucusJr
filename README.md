@@ -1,7 +1,7 @@
 # Saudação Dev(a)! :vulcan_salute:
 
-![](https://komarev.com/ghpvc/?username=glaucusjr&color=000000)
-![GitHub followers](https://img.shields.io/github/followers/glaucusjr?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=GlaucusJr&color=000000)
+![GitHub followers](https://img.shields.io/github/followers/GlaucusJr?label=Follow&style=social)
 
 - :open_book: Desenvolvedor FullStack
 - :computer: Entusiasta Tech
@@ -29,8 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git)
 ![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest)
 
-<br/>
-<br/>
 
 ### Estatísticas
 
