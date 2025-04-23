@@ -37,7 +37,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=GlaucusJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_pullrequests=true" 
   />
 
@@ -45,7 +45,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucusJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucusJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
