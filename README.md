@@ -8,6 +8,8 @@
 - :running_man: Gosto de Correr/ Jogar e Programar
 - :video_game: Jogo jogos de FPS, ação-aventura e hack and slash
 
+---
+
 ### Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/glaucus-junior-9683a4232/)
 
