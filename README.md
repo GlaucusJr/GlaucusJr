@@ -38,7 +38,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160" 
+    height="180" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=GlaucusJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_pullrequests=true" 
   />
@@ -46,7 +46,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160"
+      height="180"
       style="padding-right: 0;" 
       style="padding-left: 5px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucusJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
