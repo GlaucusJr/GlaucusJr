@@ -38,7 +38,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="177" 
+    height="150" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=GlaucusJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_pullrequests=true" 
   />
