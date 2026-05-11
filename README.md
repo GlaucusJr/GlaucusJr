@@ -40,7 +40,7 @@
     alt="GitHub Stats" 
     height="140" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GlaucusJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_pullrequests=true" 
+    src="https://github-readme-stats.vercel.app/api?username=GlaucusJr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_pullrequests=true"
   />
 
 <img 
@@ -48,6 +48,6 @@
       alt="GitHub Stats" 
       height="200"
       style="padding-left: 5px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucusJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaucusJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 </p>
